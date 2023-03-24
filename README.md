@@ -1,0 +1,2 @@
+# bojji
+Automatic docs generator
